@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morning Market Brief</title>
+<style>
+  :root {
+    --bg: #0b1020;
+    --panel: #141b30;
+    --panel2: #1b2440;
+    --line: #28324f;
+    --text: #e8edf7;
+    --muted: #98a4c0;
+    --accent: #ffd166;
+    --up: #2ecc71;
+    --down: #ff5c6c;
+    --flat: #98a4c0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: radial-gradient(1200px 600px at 50% -10%, #18223f 0%, var(--bg) 60%);
+    color: var(--text);
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 24px 18px 48px; }
+
+  header.brief {
+    text-align: center;
+    padding: 14px 0 22px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 22px;
+  }
+  header.brief .kicker {
+    font-size: 0.78rem; letter-spacing: 3px; text-transform: uppercase; color: var(--accent);
+  }
+  header.brief h1 { margin: 6px 0 4px; font-size: 2rem; letter-spacing: 0.5px; }
+  header.brief .date { color: var(--muted); font-size: 0.95rem; }
+
+  /* snapshot strip */
+  .snapshot {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+  .snap {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 12px 14px;
+  }
+  .snap .name { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); }
+  .snap .val { font-size: 1.25rem; font-weight: 700; margin-top: 3px; }
+  .snap .chg { font-size: 0.85rem; font-weight: 600; margin-top: 2px; }
+  .up { color: var(--up); }
+  .down { color: var(--down); }
+  .flat { color: var(--flat); }
+
+  /* section cards */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 16px 18px;
+  }
+  .card.wide { grid-column: 1 / -1; }
+  .card h2 {
+    margin: 0 0 10px;
+    font-size: 1.02rem;
+    display: flex; align-items: center; gap: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--line);
+  }
+  .card h2 .ic { font-size: 1.1rem; }
+  .card ul { margin: 0; padding-left: 2px; list-style: none; }
+  .card li {
+    font-size: 0.92rem;
+    padding: 5px 0;
+    display: flex; justify-content: space-between; gap: 12px;
+    border-bottom: 1px dashed rgba(255,255,255,0.05);
+  }
+  .card li:last-child { border-bottom: none; }
+  .card li .lbl { color: var(--text); }
+  .card li .num { font-weight: 700; white-space: nowrap; }
+  .card li.note { display: block; color: var(--muted); font-size: 0.86rem; }
+  .card li.bullet { display: list-item; margin-left: 18px; list-style: disc; }
+  .card li.bullet::marker { color: var(--accent); }
+
+  footer.brief {
+    margin-top: 26px; text-align: center; color: var(--muted); font-size: 0.8rem;
+    border-top: 1px solid var(--line); padding-top: 16px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="brief">
+    <div class="kicker">Morning Market Brief</div>
+    <h1>Daily Macro &amp; Markets</h1>
+    <div class="date">Friday, 29 May 2026 &middot; 7:00 AM IST</div>
+  </header>
+
+  <!-- Snapshot strip -->
+  <div class="snapshot">
+    <div class="snap"><div class="name">S&amp;P 500</div><div class="val">7,563.63</div><div class="chg up">+0.58% &#9650;</div></div>
+    <div class="snap"><div class="name">Nasdaq</div><div class="val">26,917.47</div><div class="chg up">+0.91% &#9650;</div></div>
+    <div class="snap"><div class="name">Nifty 50</div><div class="val">23,818.50</div><div class="chg up">+0.68% &#9650;</div></div>
+    <div class="snap"><div class="name">WTI Crude</div><div class="val">$87.2</div><div class="chg down">-2.0% &#9660;</div></div>
+    <div class="snap"><div class="name">Gold</div><div class="val">$4,569</div><div class="chg up">near record</div></div>
+    <div class="snap"><div class="name">USD/INR</div><div class="val">95.55</div><div class="chg flat">~flat</div></div>
+  </div>
+
+  <div class="grid">
+
+    <div class="card">
+      <h2><span class="ic">🇺🇸</span> US Markets (Overnight, 28 May)</h2>
+      <ul>
+        <li><span class="lbl">S&amp;P 500 <span class="flat">(record)</span></span><span class="num up">7,563.63 &nbsp;+0.58%</span></li>
+        <li><span class="lbl">Nasdaq Comp <span class="flat">(record)</span></span><span class="num up">26,917.47 &nbsp;+0.91%</span></li>
+        <li><span class="lbl">Dow Jones</span><span class="num up">50,668.97 &nbsp;+0.05%</span></li>
+        <li class="note">Tech-led rally; lifted by a US–Iran ceasefire-extension report, despite the hottest PCE reading in ~3 years.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">📊</span> US Economy &amp; Rates</h2>
+      <ul>
+        <li><span class="lbl">Core PCE (YoY)</span><span class="num">~3.2%</span></li>
+        <li><span class="lbl">Core CPI (YoY)</span><span class="num">~2.6%</span></li>
+        <li><span class="lbl">Unemployment</span><span class="num">4.3–4.5%</span></li>
+        <li class="note">10Y Treasury yields remain below cycle highs; inflation still above the Fed's 2% target.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">🛢️</span> Commodities (USD)</h2>
+      <ul>
+        <li><span class="lbl">WTI Crude</span><span class="num down">~$87.2 / bbl &nbsp;-2%</span></li>
+        <li><span class="lbl">Gold</span><span class="num up">~$4,569 / oz</span></li>
+        <li><span class="lbl">Silver</span><span class="num up">~$75.9 / oz &nbsp;+0.4%</span></li>
+        <li class="note">WTI on track for a ~17% drop in May on Iran / Strait of Hormuz de-escalation.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">🌏</span> Asian Markets</h2>
+      <ul>
+        <li><span class="lbl">Nikkei 225</span><span class="num up">66,329 &nbsp;+2.53%</span></li>
+        <li><span class="lbl">Hang Seng</span><span class="num down">~25,006 &nbsp;-1.27%</span></li>
+        <li><span class="lbl">Shanghai Comp</span><span class="num down">4,068.57 &nbsp;-0.73%</span></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">🇮🇳</span> India Setup</h2>
+      <ul>
+        <li><span class="lbl">Nifty 50</span><span class="num up">23,818.50 &nbsp;+0.68%</span></li>
+        <li><span class="lbl">GIFT Nifty</span><span class="num down">~0.37% lower (soft open)</span></li>
+        <li><span class="lbl">FII (cash)</span><span class="num down">Rs -1,043 Cr</span></li>
+        <li><span class="lbl">DII (cash)</span><span class="num up">Rs +3,821 Cr</span></li>
+        <li><span class="lbl">USD/INR</span><span class="num">~95.5–95.6</span></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">🏦</span> India Economy News</h2>
+      <ul>
+        <li class="bullet">RBI held repo rate at <b>5.25%</b> (2nd straight hold, neutral stance)</li>
+        <li class="bullet">FY26-27 GDP growth seen at <b>6.9%</b>; Q2 trimmed to 6.7%</li>
+        <li class="bullet">April CPI <b>3.48%</b> (1-yr high but below est.); food inflation up to 4.2%</li>
+        <li class="bullet">Upside inflation risks: elevated energy prices (West Asia), possible El Niño</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">🏢</span> US Sector &amp; Stock Movers</h2>
+      <ul>
+        <li class="bullet">Semis / AI led: <b>Arm +38%</b> over 3 sessions, leapfrogging Micron in YTD chip rankings</li>
+        <li class="bullet">Micron strong on memory "supercycle"; Nvidia demand robust</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2><span class="ic">🌍</span> Geopolitics</h2>
+      <ul>
+        <li class="bullet"><b>Iran:</b> "blockade diplomacy" — ceasefire-extension reports easing Hormuz risk (key oil driver)</li>
+        <li class="bullet"><b>US–China:</b> Trump–Xi meeting in Beijing this week (first US presidential visit since 2017)</li>
+        <li class="bullet"><b>Shangri-La Dialogue</b> (Singapore) runs today through 31 May</li>
+      </ul>
+    </div>
+
+    <div class="card wide">
+      <h2><span class="ic">📅</span> Today's Key Events (IST)</h2>
+      <ul>
+        <li class="bullet">US data calendar light (GDP 2nd estimate + PCE were Thursday)</li>
+        <li class="bullet">Month-end — watch for rebalancing flows</li>
+        <li class="bullet">Headline risk skewed to oil (Iran / Hormuz) &amp; the US–China summit</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <footer class="brief">
+    Prices are intraday snapshots and move continuously. Educational summary, not investment advice.
+  </footer>
+
+</div>
+</body>
+</html>
