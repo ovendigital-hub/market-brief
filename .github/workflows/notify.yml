@@ -1,0 +1,41 @@
+name: Telegram Notify
+
+# Sends brief.txt to Telegram whenever it changes.
+# GitHub-hosted runners have open internet, so they can reach api.telegram.org
+# (which the brief-generating cloud routine cannot).
+
+on:
+  push:
+    paths:
+      - 'brief.txt'
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send brief to Telegram
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -e
+          API="https://api.telegram.org/bot${TG_TOKEN}/sendMessage"
+          resp=$(curl -s -X POST "$API" \
+            --data-urlencode "chat_id=${TG_CHAT}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "text@brief.txt")
+          echo "HTML attempt: $resp"
+          if echo "$resp" | grep -q '"ok":true'; then
+            echo "Sent (HTML)."
+            exit 0
+          fi
+          echo "HTML send failed; retrying as plain text..."
+          sed -e 's/<[^>]*>//g' brief.txt | sed 's/&amp;/\&/g' > plain.txt
+          resp2=$(curl -s -X POST "$API" \
+            --data-urlencode "chat_id=${TG_CHAT}" \
+            --data-urlencode "text@plain.txt")
+          echo "Plain attempt: $resp2"
+          echo "$resp2" | grep -q '"ok":true'
