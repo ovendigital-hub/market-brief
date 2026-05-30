@@ -1,50 +1,62 @@
-<b>Morning Market Brief - Fri, 29 May 2026 (IST)</b>
+<b>Morning Market Brief - Saturday, 30 May 2026 (IST)</b>
 
-<b>US Markets (Overnight, 28 May)</b>
-- S&amp;P 500: 7,563.63  +0.58% (record)
-- Nasdaq: 26,917.47  +0.91% (record)
-- Dow: 50,668.97  +0.05%
-Tech-led rally; lifted by US-Iran ceasefire-extension report, despite hottest PCE in ~3 yrs.
+<b>US Markets (Overnight)</b>
+- S&amp;P 500: 7,580.08, +0.22% - ninth straight week of gains, seventh straight up day
+- Nasdaq Composite: 26,972, +0.26%
+- Dow Jones: 51,038, +0.73% - first-ever close above 51,000
+- Cooling April PCE print boosted sentiment; Nasdaq +8% for May
 
 <b>US Economy &amp; Rates</b>
-- Core PCE ~3.2% YoY (vs core CPI ~2.6%) - above Fed's 2% target
-- Unemployment holding 4.3-4.5%
-- 10Y Treasury yields below cycle highs
+- 10Y Treasury yield: ~4.44%, easing from 4.70% peak on May 20
+- Fed funds rate: 3.50%-3.75%, on hold; markets price ~46% chance of hike by Dec
+- April PCE: headline annual ~3.8%, core ~3.3%; monthly print below expectations
+- Q1 GDP second estimate released this week
 
-<b>Commodities (USD)</b>
-- WTI Crude: ~$87.2/bbl  -2% (on track for ~17% May drop on Iran/Hormuz easing)
-- Gold: ~$4,569/oz (near records)
-- Silver: ~$75.9/oz  +0.4%
+<b>Commodities (WTI / Gold / Silver)</b>
+- WTI Crude: ~$88.61/bbl; US-Iran ceasefire extension capped further upside
+- Gold: ~$4,580/oz; elevated amid ongoing West Asia energy crisis
+- Silver: ~$75.33/oz; early bullish breakout attempt faded by close
 
 <b>Asian Markets</b>
-- Nikkei 225: 66,329  +2.53%
-- Hang Seng: ~25,006  -1.27%
-- Shanghai Comp: 4,068.57  -0.73%
+- Nikkei 225 (29 May): 66,329.50, +2.53%
+- Hang Seng (29 May): ~25,140, +0.50%; lifted by US-Iran ceasefire news
+- Shanghai Composite (29 May): ~4,069, -0.73%; China-EU trade tensions weighed
 
-<b>India Setup</b>
-- Nifty 50: 23,818.50  +0.68%
-- GIFT Nifty: ~0.37% lower - soft open indicated
-- FII: Rs -1,043 Cr (sell) | DII: Rs +3,821 Cr (buy)
-- USD/INR: ~95.5-95.6
+<b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
+- Nifty 50 last close (29 May): 23,547.75, ~-360 pts (-1.50%) - third losing session
+- Sensex last close (29 May): 74,775.74, -1,092 pts (-1.44%)
+- GIFT Nifty (29 May session): ~23,722.5, -151 pts (-0.63%)
+- FII (29 May): net selling ~Rs 21,106 Cr; DII: net buying ~Rs 16,764 Cr
+- USD/INR: ~94.87 (INR firmed ~0.99% on the day)
+- Indian markets closed today (Saturday)
 
-<b>India Economy News</b>
-- RBI held repo rate at 5.25% (2nd straight hold, neutral stance)
-- FY26-27 GDP growth seen at 6.9%; Q2 trimmed to 6.7%
-- April CPI 3.48% (1-yr high but below est.); food inflation up to 4.2%
-- Upside inflation risks: elevated energy prices (West Asia), possible El Nino
+<b>India Economy News (RBI, GDP, inflation, policy)</b>
+- RBI Annual Report (29 May): FY26 GDP at 7.6%; fastest-growing major economy
+- FY27 GDP forecast: 6.9% (RBI); West Asia energy shock and global risks cited
+- April CPI: 3.48% YoY (vs 3.40% prior; well below 3.8% estimate)
+- Repo rate: 5.25%, on hold; RBI projects ~4.6% inflation for FY27
+- UPI transactions crossed 200 billion in a year; manufacturing sector +11.5%
 
 <b>US Sector &amp; Stock Movers</b>
-- Semis/AI led: Arm +38% over 3 sessions, leapfrogging Micron in YTD chip rankings
-- Micron strong on memory supercycle; Nvidia demand robust
+- Tech (XLK): +1.5%; semiconductors (SOX): +2%, +24% for May
+- Dell Technologies: +40%+ after strong quarterly earnings
+- Snowflake: +40%+ on earnings beat over the week
+- NetApp (NTAP): +17.6% on strong quarterly results
+- IBM: -2.42% on slowing enterprise consulting growth
+- Home Depot (HD): -2.14%; high rates continue to weigh on home improvement demand
 
 <b>Geopolitics</b>
-- Iran: blockade diplomacy - ceasefire-extension reports easing Hormuz risk (key oil driver)
-- US-China: Trump-Xi meeting in Beijing this week (first US presidential visit since 2017)
-- Shangri-La Dialogue (Singapore) runs today to 31 May
+- US and Iran agree to 60-day ceasefire extension; nuclear talks to begin; oil off highs
+- Strait of Hormuz effectively closed since late April; most significant energy crisis since 1970s
+- EU cuts 2026 GDP forecast to 0.9% (from 1.4%) and raises inflation to 3.0%
+- Putin visited Beijing (May 19-20); Russia-China ties deepen amid global realignment
+- Trump-Xi bilateral earlier in May; US-China trade stabilisation talks ongoing
+- China-EU trade tensions renewed; Shanghai slipped on tariff concerns
 
 <b>Today's Key Events (IST)</b>
-- US data calendar light (GDP 2nd est + PCE were Thu)
-- Month-end: watch rebalancing flows
-- Headline risk: oil (Iran/Hormuz) &amp; US-China summit
+- Saturday - India, US and most global markets closed (weekend)
+- No major scheduled economic data releases today
+- Monitor: West Asia ceasefire developments; energy market updates over the weekend
+- Next week: US ISM Manufacturing PMI (Mon); India markets reopen Monday
 
 <i>Prices are intraday snapshots and move continuously.</i>
