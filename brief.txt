@@ -1,61 +1,56 @@
-<b>Morning Market Brief - Sunday, 31 May 2026 (IST)</b>
+<b>Morning Market Brief - Monday, 01 Jun 2026 (IST)</b>
 
-<b>US Markets (Overnight, Fri 29 May)</b>
-- S&amp;P 500: 7,580 (+0.22%) -- 9th consecutive weekly gain; 7th straight up day
-- Nasdaq Composite: 26,973 (+0.20%) -- up +8% in May; AI/tech rally sustains
-- Dow Jones: 51,032 (+0.72%, +363 pts) -- first-ever close above 51,000
-- Cooling April PCE data lifted rate-cut hopes; US-Iran ceasefire extension added to risk-on mood
+<b>US Markets (Overnight)</b>
+- S&amp;P 500: 7,580.06, +0.22% (9th straight weekly gain; 7th up day)
+- Nasdaq: 26,972.62, +0.20% (+8% in May; AI/tech led)
+- Dow Jones: 51,032.46, +0.72% (+363 pts; first-ever close above 51K)
+- Risk appetite lifted by US-Iran ceasefire extension and cool April PCE
 
 <b>US Economy &amp; Rates</b>
-- 10Y Treasury yield: ~4.44% (eased from 4.70% peak on 20 May)
-- Fed funds rate: 3.50%--3.75% (on hold; last cut 25 bps late 2025)
-- April PCE headline (annual): ~3.8%; core PCE: ~3.3% (monthly prints below estimates)
-- Markets price Fed on hold through year-end; new Fed chair uncertainty post-Powell term
+- Fed funds rate: 3.50%-3.75% (on hold)
+- 10Y Treasury yield: ~4.45% (May 29 close)
+- April PCE: ~3.8% headline, core ~3.3% (below estimates)
+- Fed Chair Powell term expired; new chair search adds uncertainty
 
 <b>Commodities (WTI / Gold / Silver)</b>
-- WTI Crude: ~$87.20/bbl (-2% Fri); down ~17% in May on Iran deal progress
-- Gold: ~$4,580/oz (2nd straight gain); safe-haven demand on West Asia energy crisis
-- Silver: ~$75.33/oz (flat)
+- WTI Crude: ~$88/bbl (down; -17% in May on Iran ceasefire news)
+- Gold: ~$4,580/oz (safe-haven bid on West Asia crisis)
+- Silver: ~$75.50/oz (flat)
 
 <b>Asian Markets</b>
-- Nikkei 225 (29 May): 66,330 (+2.53%) -- strong AI/tech bid; energy relief
-- Hang Seng (29 May): ~25,140 (+0.55%)
-- CSI 300 / Shanghai (29 May): ~4,892 (-0.45%) -- China-EU trade tension weighed
+- Nikkei 225 (29 May): 66,330, +2.53%
+- Hang Seng (29 May): 25,182, +0.70%
+- Shanghai Composite (29 May): 4,069, -0.73% (China-EU trade tensions)
 
 <b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
-- Nifty 50 (29 May close): 23,547.75 (-1.50%, -359 pts) -- 3rd consecutive down session
-- Sensex (29 May close): 74,775.74 (-1.44%, -1,092 pts)
-- GIFT Nifty (Sat 30 May): ~23,687 -- approx +139 pt positive cue for Mon 1 Jun open
-- FII cash (29 May): Rs -21,106 Cr (heavy outflow)
-- DII cash (29 May): Rs +16,764 Cr (offset inflow)
-- USD/INR: ~94.87 (INR firmed +0.99% Fri on Iran ceasefire optimism)
+- Nifty 50 (29 May close): 23,547.75, -359 pts (-1.50%)
+- Sensex (29 May close): 74,775.74, -1,109 pts (-1.44%)
+- GIFT Nifty: positive cue est.; overnight US strength points to gap-up open
+- FII cash (29 May): net -Rs 20,637 Cr (heavy selling)
+- DII cash (29 May): net +Rs 16,260 Cr (bought the dip)
+- USD/INR: 94.87 (INR +0.99%, rupee firmed on ceasefire optimism)
 
 <b>India Economy News (RBI, GDP, inflation, policy)</b>
-- RBI Annual Report (29 May): FY26 GDP at 7.6% -- India fastest-growing major economy
-- FY27 GDP forecast: 6.9% (RBI); West Asia energy shock cited as key risk
-- April CPI: 3.48% YoY; repo rate: 5.25% (on hold after 100 bps cut cycle)
-- RBI projects ~4.6% CPI for FY27 on crude/INR risks
-- UPI annual volumes crossed 200 billion; manufacturing grew +11.5%
+- Repo rate: 5.25%, on hold; RBI MPC meeting June 3-5 (decision June 5)
+- FY27 GDP forecast: 6.9% (RBI); Q1 FY27 at 6.8%
+- CPI inflation FY27 projection: ~4.6%; April CPI 3.48% YoY
+- West Asia energy shock and global volatility are key upside risks
 
 <b>US Sector &amp; Stock Movers</b>
-- Tech (XLK): +1.5% Fri; Semiconductors (SOX): +24% for the month of May
-- Dell Technologies: +40%+ on the week after strong quarterly earnings beat
-- Snowflake: +40%+ on the week post earnings; NetApp (NTAP): +17.6%
-- Autodesk (ADSK): -7% (announced $3.6 bn all-cash acquisition of MaintainX)
-- Gap (GAP): -15% (trimmed full-year sales guidance despite earnings beat)
+- Dell: +30%+ on blowout Q1 EPS of $4.86 (est $2.96); revenue $43.8B
+- Arm Holdings: +42% on the week; Qualcomm: +19% on the week
+- Snowflake: beat and raise; software sector lifted
+- AI infra stocks: FY26 earnings estimates revised up 55% since Dec 2024
 
 <b>Geopolitics</b>
-- US-Iran: Tentative 60-day ceasefire extension agreed; Trump yet to give final approval
-- Strait of Hormuz reopening part of deal terms; nuclear talks to begin; most significant energy crisis since 1970s
-- Shangri-La Dialogue (Singapore, 29--31 May): US-Asia security policy in focus
-- Russia-China: Putin visited Beijing (19--20 May); ties deepening amid shifting global order
-- China-EU trade tensions weigh on mainland Chinese equities
+- US-Iran: Tentative 60-day ceasefire MoU; Trump final approval pending; nuclear talks to follow; Strait of Hormuz reopening is a key deal term
+- Hormuz: only 5% of pre-conflict shipping levels; major energy disruption continues
+- Shangri-La Dialogue (Singapore, 29-31 May): US-Asia security strategy in focus
 
 <b>Today's Key Events (IST)</b>
-- Today (Sun 31 May): India and US markets closed; no major data releases
-- Mon 1 Jun: India markets reopen; GIFT Nifty signals mild gap-up
-- Mon 1 Jun (~7:30 PM IST): US ISM Manufacturing PMI -- first major US data of June
-- Fri 6 Jun: US May Non-Farm Payrolls and unemployment rate -- key for Fed rate path
-- Watch: Trump final call on Iran deal; Strait of Hormuz; FII/DII flows resume Mon
+- India markets open today (Mon 1 Jun); watch GIFT Nifty for gap-up cue
+- ~7:30 PM IST: US ISM Manufacturing PMI (first major June data print)
+- June 3-5: RBI MPC meeting; repo rate expected on hold at 5.25%
+- Fri 6 Jun ~6:00 PM IST: US Non-Farm Payrolls (key for Fed rate path)
 
 <i>Prices are intraday snapshots and move continuously.</i>
