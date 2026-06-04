@@ -1,59 +1,58 @@
-<b>Morning Market Brief - Wednesday, 03 Jun 2026 (IST)</b>
+<b>Morning Market Brief - Thursday, 04 Jun 2026 (IST)</b>
 
 <b>US Markets (Overnight)</b>
-- S&amp;P 500: 7,609.78, +0.13% - new all-time record high
-- Nasdaq Composite: ~27,093, +0.17% - new record high
-- Dow Jones: 51,307.79, +0.45%
-- Chip stocks surged; Philly Semi Index +4.5% vs software -4%
+- S&amp;P 500: 7,553.68 (-0.74%) - snapped 9-day win streak
+- Nasdaq Composite: 26,853.98 (-0.89%)
+- Dow Jones: 50,687.07 (-1.21%, -620 pts)
+- Stocks fell as oil and Treasury yields surged on new US-Iran military strikes
 
 <b>US Economy &amp; Rates</b>
-- Fed funds rate: 3.50%-3.75%, on hold; next FOMC Jun 16-17
-- 10Y Treasury yield: ~4.46%
-- Markets price ~46% probability of Dec 2026 rate hike
+- 10Y Treasury yield: ~4.49%
+- Fed: Kevin Warsh chairs first FOMC (Jun 6 start); market pricing ~70% chance of 25bps hike by year-end
+- Fed member Miran speaks today on inflation risks
+- US jobless claims due today; May NFP due Fri Jun 5
 
 <b>Commodities (WTI / Gold / Silver)</b>
-- WTI Crude: ~$92.54/bbl - elevated on Iran/Hormuz supply fears
-- Gold: ~$4,500+/oz - geopolitical safe-haven bid intact
-- Silver: ~$76.25/oz, +1.85%
+- WTI Crude: ~$96.02/bbl (+2.41%) - 3rd straight gain; Iran conflict
+- Gold: ~$4,452/oz (-0.81%) - dollar strength weighing on metals
+- Silver: ~$74.10/oz (-1.37%)
 
 <b>Asian Markets</b>
-- Nikkei 225: Jun 3 open ~66,363; Jun 2 close 66,734, -0.30%
-- Hang Seng: 25,757, +1.41% (Jun 2 close)
-- CSI 300 (China): ~4,914, -1.45% (Jun 2 close)
+- Nikkei 225: ~68,173 (Jun 3; topped 68k for the first time)
+- Hang Seng: ~25,805 (-0.9%)
+- Shanghai Composite: ~4,069 (-0.2%)
 
 <b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
-- Nifty 50 (Jun 2 close): 23,382.60, -0.70% (4th losing session)
-- Sensex (Jun 2 close): 74,267.34, -0.68%
-- GIFT Nifty pre-open: ~23,298 (slight negative bias)
-- FII (Jun 2): net sold Rs 8,363 Cr; DII: net bought Rs 9,589 Cr
-- USD/INR: ~95.71 (rupee soft on oil import cost concerns)
+- Nifty 50: 23,382.60 (-0.70%) - 4th straight losing session
+- Sensex: 74,267.34 (-0.68%, -508 pts)
+- GIFT Nifty: ~23,200 (gap-down signal; US overnight weakness)
+- FII: net sold Rs 5,617 cr (Jun 3, cash segment)
+- DII: net buyers, partially absorbing FII outflows
+- USD/INR: ~95.36
 
 <b>India Economy News (RBI, GDP, inflation, policy)</b>
-- RBI MPC meeting starts today (Jun 3-5); decision Fri Jun 5, 10 AM IST
-- Repo rate: 5.25%; hold expected for 3rd consecutive meeting
-- CPI inflation: 3.48% (Apr 2026), within RBI target range
-- FY26 GDP growth: 7.6% (per RBI annual report)
-- RBI projects FY27 inflation rising to ~4.6% on oil and shipping costs
+- RBI MPC meeting Jun 3-5; repo rate decision Fri Jun 5 at 10 AM IST
+- Repo rate expected held at 5.25% (3rd consecutive hold)
+- FY27 GDP projection: 6.9%; CPI inflation forecast: 4.6%
+- RBI flagging upside inflation risks from elevated crude and possible El Nino
 
 <b>US Sector &amp; Stock Movers</b>
-- HPE: +30% on AI-fuelled earnings guidance upgrade
-- Marvell: +20% after Nvidia CEO flagged trillion-dollar potential
-- Broadcom: +5%; Lam Research, Qualcomm, On Semi: +5%+
-- Cisco: +5.52%, Caterpillar: +5.19%, Apple: +2.88%
-- Nike: -4.79%, Salesforce: -4.18%, Microsoft: -4.18%
+- IT (-1.52%), Financials (-1.21%), Consumer Discretionary (-1.07%) led declines
+- Energy outperformed as WTI surged above $96/bbl
+- Broadcom (AVGO): -8% after hours; Q2 revenue $22.19B (+48% YoY), slight miss vs est
+- CrowdStrike (CRWD): -11% after hours; Q1 FY27 revenue beat, weak Q2 guidance
+- Marvell Technology (MRVL): +5.17%
 
 <b>Geopolitics</b>
-- US-Iran: Iran suspended nuclear talks; Strait of Hormuz largely closed since Mar 4
-- Brent crude near $97/bbl; IEA calls it largest oil supply shock in history
-- Fragile Apr ceasefire fraying; Iran-US standoff continues
-- Ukraine: Russia struck Ukrainian defence-industrial targets overnight Jun 2
-- US-China: Connected Vehicle Security Act advancing to limit Chinese auto sector stakes
+- US and Iran exchanged new military strikes overnight; conflict ongoing
+- WTI above $96, Brent above $97; Strait of Hormuz risk premium persists
+- South Africa hiked repo rate 25bps to 7.0% on Iran-driven energy inflation
+- ECB officials signal June rate hike likely
 
 <b>Today's Key Events (IST)</b>
-- RBI MPC 3-day meeting begins (decision Jun 5, 10 AM IST); hold expected
-- US ADP May payrolls: forecast 116K vs prev 109K (evening IST)
-- US ISM Services PMI May: forecast 53.7 vs prev 53.6
-- US EIA crude oil inventory data
-- Iran/Hormuz news flow remains the key wildcard for oil and Indian markets
+- ~6:30 PM: US weekly initial jobless claims
+- TBD: Fed member Miran speech on inflation risks
+- RBI MPC ongoing; rate decision Fri Jun 5 at 10 AM IST
+- Fri Jun 5: US May NFP (nonfarm payrolls) - key market mover
 
 <i>Prices are intraday snapshots and move continuously.</i>
