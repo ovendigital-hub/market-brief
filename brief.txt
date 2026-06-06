@@ -1,58 +1,58 @@
-<b>Morning Market Brief - Friday, 05 Jun 2026 (IST)</b>
+<b>Morning Market Brief - Saturday, 06 Jun 2026 (IST)</b>
 
 <b>US Markets (Overnight)</b>
-- S&amp;P 500: ~7,533 (-0.28%) — broad index held up relatively well
-- Nasdaq Composite: ~26,615 (-0.89%) — chip-led selloff weighed on tech
-- Dow Jones: ~50,776 (flat to +0.18%) — rotation into value/defensives
-- Markets sold off in tech as Broadcom and CrowdStrike disappointed; US-Iran tensions kept oil elevated and added to risk-off sentiment
+- S&amp;P 500: 7,383.74 (-2.64%) - sharpest pullback in weeks
+- Nasdaq Composite: 25,709.43 (-4.18%) - worst session since Apr 2025
+- Dow Jones: 50,866.78 (-1.35%)
+- Trigger: May NFP surged to 172K (vs ~80K est), stoking rate hike fears
 
 <b>US Economy &amp; Rates</b>
-- 10Y Treasury yield: ~4.49%
-- Fed funds rate: on hold; markets price ~85% chance of 25bps hike by year-end
-- Energy-driven inflation from Iran conflict keeps Fed in cautious mode
-- May Nonfarm Payrolls due today — key test for rate outlook
+- May Nonfarm Payrolls: +172,000 (vs ~80,000 forecast) - blowout beat
+- 10Y Treasury yield: ~4.52% (rose above 4.5% post-NFP); 30Y above 5%
+- Fed Funds effective rate: 3.62%; futures price hikes into late 2026
+- New Fed Chair Kevin Warsh begins first FOMC meeting this weekend
 
 <b>Commodities (WTI / Gold / Silver)</b>
-- WTI Crude: ~$95 / bbl (down ~1% from recent highs; Iran-Hormuz risk keeps floor firm)
-- Gold: ~$4,450 / oz (steady near record highs)
-- Silver: ~$73.25 / oz (+0.76%)
+- WTI Crude: ~$91/bbl, down ~3% in prior session on US-Iran deal uncertainty
+- Gold: ~$4,370/oz, heading for weekly -4%; rising yields and strong USD weigh
+- Silver: ~$68.29/oz, -7.51% on the day; steepest drop post-jobs report
 
 <b>Asian Markets</b>
-- Nikkei 225: 66,149 (+2.25%) — strong rebound this morning
-- Hang Seng: 25,214 (+0.83%)
-- Shanghai Composite: ~4,079 (+0.09%)
-- Asia opened mostly higher, supported by rotation out of US tech into regional equities
+- Nikkei 225: 66,588.12 (-1.31%)
+- Hang Seng: ~-1.11% in final hour of trade
+- Shanghai Composite: 4,028 (-0.74%)
+- Wall Street tech and chip rout spread across Asia; South Korea led losses
 
 <b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
-- Nifty 50 close (04 Jun): 23,405.60 (-0.33% / -77 pts)
-- Sensex close (04 Jun): 74,346.2 (-0.40%)
-- GIFT Nifty pre-open cue: ~23,372 (slightly positive signal)
-- FII cash (04 Jun): -Rs 4,476 Cr (net sellers)
-- DII cash (04 Jun): +Rs 3,986 Cr (net buyers, providing cushion)
-- USD/INR: ~95.72
+- Nifty 50: 23,366.70 (-0.21%) | Sensex: 74,243.34 (-0.16%) on Fri
+- GIFT Nifty: ~23,567 pre-Fri India open; Mon cue likely negative given US rout
+- FII cash (Jun 4): -Rs 4,447 Cr | DII cash: +Rs 4,360 Cr (strong domestic support)
+- USD/INR: below Rs 95; RBI foreign inflow measures boosted rupee
 
 <b>India Economy News (RBI, GDP, inflation, policy)</b>
-- RBI MPC decision TODAY at 10:00 AM IST — repo rate expected held at 5.25%
-- FY27 GDP projection: 6.9%; CPI inflation forecast: 4.6% (FY27 avg)
-- India scrapped capital gains tax on govt bonds for foreign investors
-- Elevated crude from Iran conflict is key upside inflation risk flagged by RBI
-- New SEBI margin norms and income tax rules effective June 2026
+- RBI MPC (Jun 5): repo rate held at 5.25%; stance neutral
+- FY27 GDP growth forecast cut to 6.6% (from 6.9%)
+- FY27 CPI inflation outlook raised to 5.1%
+- RBI announced measures to attract foreign capital inflows
+- Governor Malhotra: West Asia conflict and energy prices are key upside risks to inflation
 
 <b>US Sector &amp; Stock Movers</b>
-- Broadcom (AVGO): -~13% — Q2 rev of $22.19B missed est; AI chip outlook underwhelmed
-- CrowdStrike (CRWD): -~10% — soft Q2 guidance and rising operating expenses
-- Chip/semis broadly lower; Energy sector outperformed on elevated crude
-- Rotation from growth/tech into defensives; Dow outperformed Nasdaq by wide margin
+- Tech: -5%; Semiconductors: -8.4%; Semi equipment: -9.9%; Hardware: -8.8%
+- Nvidia: -5.9%; Cisco: -6.4%; IBM: -5.5%
+- Broadcom: -7%+; Marvell: -16%; Micron: -13%; Intel: -11%; AMD: -11%
+- Defensive and energy names held up relatively better
 
 <b>Geopolitics</b>
-- US-Iran: military exchanges continuing; Iran suspended peace talks with US
-- Strait of Hormuz risk premium persists; ceasefire odds fell to ~28% on prediction markets
-- Goldman Sachs raised Brent crude forecast to $90 / bbl by late 2026
-- Global central banks increasingly responding to energy-price inflation spillover
+- US-Iran ceasefire: contradictory signals; Iran suspended talks citing Israeli strikes in Lebanon
+- Hezbollah rejected Lebanon-Israel ceasefire plan; Strait of Hormuz disruption continues
+- Trump says a deal is possible "this weekend"; outcome could move oil markets Monday
+- FIFA World Cup 2026 (Jun 11 to Jul 19; US, Mexico, Canada) adds security complexity
 
 <b>Today's Key Events (IST)</b>
-- 10:00 AM IST: RBI MPC repo rate decision — 5.25% hold widely expected; guidance key
-- ~6:00-6:30 PM IST: US May Nonfarm Payrolls — major mover for rates, USD, equities
-- Iran-Hormuz news flow: top wildcard for crude, INR and Indian equities
+- India and US markets closed (Saturday)
+- Warsh FOMC meeting underway; rate decision expected next week
+- Weekend US-Iran talks: a breakthrough would be a positive catalyst for risk assets Monday
+- Monday India open likely under pressure from global tech and semiconductor rout
+- Light data calendar today; geopolitics in focus
 
 <i>Prices are intraday snapshots and move continuously.</i>
