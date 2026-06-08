@@ -1,61 +1,62 @@
-<b>Morning Market Brief - Sunday, 07 Jun 2026 (IST)</b>
+<b>Morning Market Brief - Monday, 08 Jun 2026 (IST)</b>
 
 <b>US Markets (Overnight)</b>
-- S&amp;P 500: 7,383.74 (-2.64%) - sharpest daily drop in weeks
-- Nasdaq: 25,709.43 (-4.18%) - worst session since April 2025
-- Dow Jones: 50,866.78 (-1.35%, -695 pts)
-- Catalyst: May payrolls +172k (est. ~85k) sent yields sharply higher
+- S&amp;P 500: 7,383.74 (-2.64%) - largest single-day drop of 2026
+- Nasdaq Composite: 25,709.43 (-4.18%) - worst session since Apr 2025
+- Dow Jones: 50,866.78 (-1.35%)
+- Blowout May NFP (+172K vs ~85K est) drove yield spike and rate hike fears; semiconductor rout wiped $1T+ in market cap
 
 <b>US Economy &amp; Rates</b>
-- May nonfarm payrolls: +172,000 (forecast ~85,000); unemployment 4.3%
-- 10Y Treasury yield: 4.55%; 30Y yield above 5.00%
-- Fed funds rate: 3.50%-3.75% (on hold); market near-fully pricing +25bp hike by year-end
-- Avg hourly earnings: +0.3% MoM (in line with estimates)
+- 10Y Treasury yield: 4.55% (up ~6 bps post-NFP)
+- 30Y Treasury: above 5.00%
+- Fed Funds Rate: 3.50%-3.75% (on hold; June meeting)
+- May Nonfarm Payrolls: +172K (est: ~85K); Unemployment: 4.3%
+- Markets near-fully pricing +25bp hike by year-end 2026
 
 <b>Commodities (WTI / Gold / Silver)</b>
-- WTI crude: ~$91/bbl (-extending prior session -3.1%); Iran tensions keep prices elevated
-- Gold: ~$4,370/oz (weekly decline ~4%, lowest of 2026)
-- Silver: ~$69/oz (fell below $70, lowest since late March)
+- WTI Crude: ~$90.54/bbl (elevated on Iran supply risk)
+- Gold: ~$4,370/oz (lowest of 2026; yields surged post-NFP)
+- Silver: ~$67.81/oz (down sharply from ~$74.87 earlier in week)
 
 <b>Asian Markets</b>
-- Nikkei 225 (Fri): 66,588 (-1.31%)
-- Hang Seng (Fri): 24,961 (-1.20%)
-- Shanghai Composite (Fri): 4,027.74 (-0.74%)
-- Broad Asia sell-off tracking Wall Street tech-led decline
+- Nikkei 225 (05 Jun): 66,588.12 (-1.31%)
+- Hang Seng (05 Jun): 24,961.95 (-1.15%)
+- Shanghai Composite (05 Jun): 4,027.74 (-0.74%)
+- Jun 8 session now underway; tracking Friday US tech rout and Iran headlines
 
 <b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
-- Nifty 50 (Fri close): 23,382.60 (-0.70%, -165 pts) - 4th straight losing session
-- Sensex (Fri close): 74,267.34 (-0.68%, -508 pts)
-- GIFT Nifty (pre-open cue): ~23,091 (-1.18% vs Nifty) - weak Monday open expected
-- FII flows (Fri): Rs -8,776 Cr (net sellers)
-- DII flows (Fri): Rs +9,134 Cr (net buyers, cushioning declines)
-- USD/INR: ~95.11 (rupee firmed ~0.5% on Friday; broader pressure persists)
+- Nifty 50 (05 Jun close): 23,382.60 (-0.70%, -165 pts)
+- Sensex (05 Jun close): 74,267.34 (-0.68%, -508 pts)
+- GIFT Nifty (08 Jun am): ~23,447 (+0.27% vs prior close) - mildly positive open
+- FII cash (05 Jun): -Rs 8,776 Cr (net sellers)
+- DII cash (05 Jun): +Rs 9,134 Cr (net buyers)
+- USD/INR: ~95.11
 
 <b>India Economy News (RBI, GDP, inflation, policy)</b>
-- RBI repo rate held at 5.25% (neutral stance, 2nd consecutive hold)
-- FY26 GDP growth forecast cut to 6.6% from 6.9%; Goldman Sachs projects 5.9%
-- Inflation projection raised to 5.1% from 4.6%; stagflation risk flagged
-- Governor Malhotra: Iran conflict and energy prices clouding monetary outlook
-- Govt exempted FIIs and BIS from capital gains tax effective April 2026
+- RBI MPC (05 Jun): repo rate held at 5.25% (2nd consecutive hold)
+- GDP forecast cut to 6.6% for FY27 (from 6.9%); Goldman Sachs sees 5.9%
+- CPI inflation outlook raised to 5.1% (from 4.6%); stagflation risk flagged
+- Gov. Malhotra: Iran conflict, energy prices, FII outflows are key risks
+- Rupee down 6%+ YTD; FII equity outflows of $13.7B YTD 2026
 
 <b>US Sector &amp; Stock Movers</b>
-- Tech sector: -5% (worst day in months); semiconductors led losses
-- Broadcom (AVGO): -7% after Thursday's double-digit fall
-- Marvell Technology (MRVL): -16%; Micron (MU): -13%
-- Intel (INTC): -11%; AMD: -11%
-- Energy and defensives relatively outperformed
+- Tech sector: -5% (worst performer; NFP-driven rate hike fears)
+- Semiconductors routed: Marvell -16%, Micron -13%, Intel -11%, AMD -11%
+- Nvidia -5.9%, Broadcom -7%+, Cisco -6.4%; chips lost $1T+ in market cap
+- Energy and defensives outperformed; growth-to-value rotation evident
 
 <b>Geopolitics</b>
-- US-Iran conflict ongoing (Operation Epic Fury began Feb 28, 2026)
-- IRGC confirmed missile strikes on US forces in Kuwait (Jun 3)
-- Iran supreme leader: US Mideast bases "no longer safe" (Jun 2)
-- Strait of Hormuz disruptions - IEA calls it largest oil supply shock in history
-- Ceasefire negotiations stalled; energy, inflation and FII risks elevated for India
+- US-Iran conflict (Operation Epic Fury) ongoing; ceasefire talks stalled
+- Iran IRGC struck US forces in Kuwait (03 Jun); Hormuz disruptions persist
+- IEA: largest oil supply shock in history; global energy costs elevated
+- Armenia elections (07 Jun) - outcome watched for South Caucasus stability
+- Strong US jobs data reshaping global monetary policy expectations
 
 <b>Today's Key Events (IST)</b>
-- Sun Jun 7: No major scheduled data; markets closed
-- Mon Jun 8: Indian equity markets reopen; GIFT Nifty signals weak open
-- Wed Jun 10: US CPI (May) at 8:30 AM ET (~6:00 PM IST) - key inflation print
-- Ongoing: Iran-US ceasefire talks, 10Y yield trajectory, oil price moves
+- Mon 08 Jun: India markets reopen; GIFT Nifty signals mildly positive open; light data day
+- Wed 10 Jun: US CPI (May) ~6:00 PM IST (key print); Bank of Canada rate decision
+- Thu 11 Jun: ECB rate decision; US PPI data
+- Fri 12 Jun: Univ. of Michigan Consumer Sentiment (preliminary)
+- Watch: Iran-US developments, 10Y Treasury trajectory, FII flows into India
 
 <i>Prices are intraday snapshots and move continuously.</i>
