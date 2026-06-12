@@ -1,58 +1,60 @@
-<b>Morning Market Brief - Thursday, 11 Jun 2026 (IST)</b>
+<b>Morning Market Brief - Friday, 12 Jun 2026 (IST)</b>
 
 <b>US Markets (Overnight)</b>
-- S&amp;P 500: 7,266.99 (-1.62%)
-- Nasdaq Composite: 25,169.50 (-1.98%)
-- Dow Jones: 49,918.78 (-1.87%; -953 pts)
-- Broad selloff as US signalled fresh strikes on Iran; Industrials -3%+, Tech -2%+
+- S&amp;P 500: 7,394.30, +1.75% (+127 pts)
+- Nasdaq Composite: 25,809.66, +2.54% (+640 pts)
+- Dow Jones: 50,848.75, +1.75% (~+875 pts); back above 50K
+- Russell 2000: +3.00%
+- Strong rally as Trump and Iran signalled deal is close; PPI cooled fears; oil retreated
 
 <b>US Economy &amp; Rates</b>
-- 10Y Treasury yield: ~4.55% (held steady post-CPI release)
-- Fed rate: 3.50-3.75% (on extended hold)
-- May CPI (released Jun 10): 4.2% YoY, 3-year high; core +0.2% MoM, below est.
-- Dec 2026 Fed hike odds rising; FOMC Jun 16-17 next key milestone
+- 10Y Treasury yield: ~4.55%
+- May PPI (rel. 11 Jun): +6.5% YoY; May CPI (rel. 10 Jun): +4.2% YoY (3-yr high)
+- Core CPI: +2.9% YoY; Dec 2026 Fed rate hike now fully priced
+- Fed funds rate: 3.50-3.75%; on hold
 
 <b>Commodities (WTI / Gold / Silver)</b>
-- WTI Crude: ~$88.72/bbl (+1.2%; volatile on Iran strike escalation)
-- Gold: ~$4,150/oz (-2.8%; fell sharply from $4,268; CPI and risk-off selling)
-- Silver: ~$63.60/oz (-1.5%; fell alongside gold)
+- WTI crude: ~$91.50/bbl; volatile; Iran deal capped geopolitical risk premium
+- Gold: ~$4,225/oz, +4.21%; strong safe-haven bid on Middle East tensions
+- Silver: ~$63.80/oz, +0.83%
 
 <b>Asian Markets</b>
-- Nikkei 225 (Jun 10 close): 64,179 (-1.89%)
-- Hang Seng (Jun 10 close): 24,407 (-0.64%)
-- Shanghai Composite: below 4,040 support; technical breakdown signal; bearish
+- Nikkei 225 (11 Jun close): ~68,402, +2.50%; lifted by US deal optimism
+- Hang Seng (11 Jun close): 24,249, -0.65% (-159 pts); fifth straight losing session
+- Shanghai Composite: under pressure near 4,040 support; bearish technical signal
 
 <b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
-- Nifty 50 (Jun 10 close): 23,214.95 (-0.12%)
-- Sensex (Jun 10 close): 73,983.18 (+0.09%)
-- GIFT Nifty (pre-open): ~23,205; broadly flat; cautious cue
-- FII cash (Jun 10): -Rs 1,920 Cr (net sellers)
-- DII cash (Jun 10): +Rs 2,950 Cr (net buyers; offsetting FII outflows)
-- USD/INR: ~95.0 (INR broadly stable)
+- Nifty 50 (11 Jun close): 23,161.60, -0.23% (-53 pts)
+- Sensex (11 Jun close): ~73,832, -~150 pts
+- GIFT Nifty pre-open: ~23,350, +0.64%; positive gap-up cue from US rally
+- FII (11 Jun): -Rs 2,249 cr (net sellers)
+- DII (11 Jun): +Rs 4,365 cr (net buyers)
+- USD/INR: ~95.27
 
 <b>India Economy News (RBI, GDP, inflation, policy)</b>
-- RBI repo rate: 5.25% (held for 2nd consecutive MPC; neutral stance)
-- FY27 GDP forecast cut to 6.6% (from 6.9%); Goldman Sachs projects 5.9%
-- CPI inflation projection raised to 5.1% (from 4.6%); energy prices key upside risk
-- FII equity outflows: ~$13.7 bn YTD 2026; structural capital flow pressure persists
+- RBI repo rate: 5.25% (unchanged; neutral stance)
+- FY27 GDP forecast cut to 6.6% from 6.9%; Goldman Sachs projects 5.9%
+- RBI FY27 CPI inflation outlook raised to 5.1%; energy costs key upside risk
+- India May CPI data due today (12 Jun); watch for further upside surprise
 
 <b>US Sector &amp; Stock Movers</b>
-- Industrials led losses (-3%+); Tech and Materials both -2%+
-- Chip stocks (NVDA, MU, AMD, INTC): broadly weak on geopolitical risk-off
-- Energy sector: mixed; crude bounce offset by demand outlook concerns
-- Defensives and value names saw relative inflows vs growth selloff
+- Leaders: Tech, Industrials, Materials; chip stocks surged sharply
+- Micron +11%, Lam Research +12.7%, AMD +8%, Intel +10%
+- Honeywell +6.43%, Boeing +5.79%, Amgen +4.91%, 3M +3.70%
+- Laggards: Energy, Consumer Staples, Real Estate
+- Oracle -9% (cloud revenue miss); IBM -2.42% (cautious analyst note)
 
 <b>Geopolitics</b>
-- US military struck multiple Iran targets Jun 10 (second straight day of strikes)
-- US downed 2 Iranian drones near Strait of Hormuz on Jun 7
-- Hormuz supply disruption risk elevated; oil risk premium remains in prices
-- Iran nuclear talks suspended; no ceasefire path visible
-- Houthis maintaining Red Sea threat posture; shipping reroutes ongoing
+- Trump and Iran signalled deal is close; markets staged a strong risk-on rally
+- US-Iran conflict: strikes on Iranian targets; Strait of Hormuz disruption risk
+- Fitch downgraded global sovereign outlook to 'deteriorating' on US-Iran war
+- Red Sea and Hormuz shipping reroutes continue to raise global supply costs
 
 <b>Today's Key Events (IST)</b>
-- ~6:00 PM IST: US May PPI (BLS) - key inflation read after hot CPI print
-- Jun 16-17: FOMC meeting; rate hold expected; dot plot and press conf. key
-- India: No major domestic data today; market to track global cues and US futures
-- Watch: Iran escalation, crude oil direction, FII flows, USD/INR
+- India May CPI (~5:30 PM IST); key domestic inflation print
+- UK Monthly GDP release
+- Germany, France, Spain CPI data
+- US: light calendar; Iran deal progress remains the primary swing factor
+- FOMC meeting Jun 16-17 (next week); updated dot plot will be closely watched
 
 <i>Prices are intraday snapshots and move continuously.</i>
