@@ -1,60 +1,56 @@
-<b>Morning Market Brief - Saturday, 13 Jun 2026 (IST)</b>
+<b>Morning Market Brief - Sunday, 14 Jun 2026 (IST)</b>
 
 <b>US Markets (Overnight)</b>
-- Dow Jones: 51,202 (+0.70%) lifted by SpaceX IPO debut
-- S&amp;P 500: ~7,449 (+0.74%) near record highs
-- Nasdaq Composite: ~25,889 (+0.31%) mixed; space stocks surged, some tech soft
-- SpaceX (SPCX) debuted on Nasdaq at $161.11 (+19.34%), largest IPO in history (~$75B raised, ~$1.75T valuation)
+- S&amp;P 500: 7,431 (+0.50%) | Nasdaq: 25,889 (+0.31%) | Dow: 51,202 (+0.70%)
+- All three indices ended Friday (Jun 12) higher; positive week on peace deal optimism
+- S&amp;P 500 remains below its early-June record above 7,600; no US session on Sat/Sun
 
 <b>US Economy &amp; Rates</b>
-- Fed funds rate: 3.50-3.75% (held; FOMC Jun 16-17 is next key event)
-- 10-year Treasury yield: ~4.40-4.50%
-- April CPI: +3.8% YoY (highest in ~3 years); inflation above Fed target
-- Kevin Warsh confirmed as incoming Fed Chair (54-45 Senate vote)
-- Rate cuts pushed to Q3/Q4 2026; ~30% probability of hike by Q1 2027
+- 10Y Treasury yield: ~4.49%; rebounded as Iran deal timeline uncertainty persisted
+- US PPI (May): +6.5% YoY - highest since Nov 2022; inflation pressures broadening
+- Fed expected to hold rates; market prices trough near 3% by end of cutting cycle
+- Fed funds: 3.50-3.75%; FOMC meeting Jun 16-17 is the key event next week
 
 <b>Commodities (WTI / Gold / Silver)</b>
-- WTI Crude: $85.67 (-2.33%); eased on Iran deal progress reports
-- Gold: ~$4,114/oz (fell from near $4,200; risk-on mood pressured safe havens)
-- Silver: ~$67.05/oz (soft session)
+- WTI Crude: ~$84.88/bbl (-3.23%); fell sharply on Iran deal supply-return hopes
+- Gold: ~$4,216/oz (flat, -0.08%); holding near record highs amid safe-haven demand
+- Silver: ~$67.70/oz (-0.10%); tracked gold with modest pullback
 
 <b>Asian Markets</b>
-- Nikkei 225 (Jun 12 close): ~66,020 (+2.81%) strong US tailwinds, yen dynamics
-- Hang Seng (Jun 12 close): ~24,249 (-0.70%) extended recent weakness
-- Shanghai Composite (Jun 12 close): ~3,987 (-0.16%) broadly flat
+- Nikkei 225 (Fri close): 66,020 (+2.81%) - broad-based rally, tracking Wall St gains
+- Hang Seng (Fri close): 24,249 (-0.65%) - extended decline on property/tech caution
+- Shanghai Composite (Fri close): 4,032 (+1.12%) - gained on domestic data support
 
 <b>India Setup (Nifty/Sensex, GIFT Nifty, FII/DII, USD/INR)</b>
-- Nifty 50 (Jun 12 close): ~23,504 (+1.48%) from prior close ~23,162
-- Sensex (Jun 12 close): ~74,940 (est, +~1.5%)
-- GIFT Nifty: N/A weekend; Monday cue to be checked pre-open
-- FII cash (Jun 11): net sold Rs 1,987 crore
-- DII cash (Jun 11): net bought Rs 4,224 crore
-- USD/INR: ~94.95 (INR firmed -0.22% vs USD)
+- Nifty 50 (Fri close): ~23,620 (+0.95%) | Sensex: ~74,940 (approx)
+- GIFT Nifty: weekend - no pre-open cue; Monday session opens ~7:00 AM IST
+- FII (Jun 12): -Rs 1,082 Cr (net sellers) | DII: +Rs 5,341 Cr (strong buyers)
+- USD/INR: ~Rs 95.21 per USD (rupee firmed ~0.47% vs dollar on Friday)
 
 <b>India Economy News (RBI, GDP, inflation, policy)</b>
-- RBI repo rate: 5.25% (neutral stance; unchanged)
-- FY2026-27 GDP estimate: 6.9% (Q1 FY27 at 6.8%)
-- FY27 CPI forecast: 4.6% (Q1: 4.0%, Q2: 4.4%, Q3: 5.2%, Q4: 4.7%)
-- RBI revised FY26 GDP forecast up to 7.6%; inflation tracking below 4% target
+- RBI held repo rate at 5.25% at June MPC; maintained neutral stance
+- FY27 GDP growth forecast cut to 6.6% (from 6.9%) on global headwinds
+- RBI raised FY27 inflation projection to 5.1% amid supply-side pressure
+- DII buying remains strong buffer against persistent FII equity outflows
 
 <b>US Sector &amp; Stock Movers</b>
-- SpaceX (SPCX): +19.34% debut; lifted aerospace and space sector broadly
-- Lam Research (LRCX): +3.00%; semiconductor equipment strength continued
-- Rocket Lab (RKLB): up ~89% since SpaceX listing announcement
-- AST SpaceMobile (ASTS): up ~30% (SpaceX halo effect)
-- DoJ cleared Paramount-WBD merger; media names active
-- Sector leaders: materials, financials, utilities
+- Semiconductors led: Marvell Technology +5.17%, Sandisk +4.67%, Western Digital +4.42%
+- IT sector up ~16% MTD in June; AI and chip demand driving earnings outperformance
+- Semiconductor sector Q1 earnings growth: +107% YoY; IT sector overall +54%
+- Broader market closed on positive note; materials and financials also outperformed
 
 <b>Geopolitics</b>
-- Iran-US: Pakistan PM confirmed Jun 12 that US and Iran agreed on deal wording; formal signing pending
-- Strait of Hormuz: vessel traffic disruption risk remains; oil supply uncertainty elevated
-- Goldman Sachs raised Brent crude forecast to $90/bbl by late 2026
-- US conducted strikes on Iranian targets ahead of ceasefire framework talks
+- US-Iran: Negotiations progressing; fresh uncertainty on signing timeline rattled yields
+- South China Sea: China-Taiwan standoff at disputed atoll; no escalation reported
+- Ukraine: US House GOP pushed back against Trump policy on Ukraine war funding
+- FIFA World Cup 2026 underway (US/Mexico/Canada; Jun 11 to Jul 19; 48 teams)
 
 <b>Today's Key Events (IST)</b>
-- Saturday - no US, India or Asian market sessions today
-- FOMC Jun 16-17 rate decision next week (hold widely expected; Chair Warsh press conf key)
-- Iran-US deal developments over the weekend could move oil sharply on Monday open
-- No major scheduled economic data releases today
+- Markets closed today (Sunday); next session opens Monday Jun 15
+- China data (Mon): Industrial Production, Retail Sales, Fixed Asset Investment
+- Japan (Mon): Bank of Japan monetary policy decision - key for JPY and Asia
+- India (Mon): Foreign Trade data release
+- Euro Zone (Mon): Industrial Production data
+- FOMC Jun 16-17 (Tue-Wed): Rate hold expected; Chair commentary key for direction
 
 <i>Prices are intraday snapshots and move continuously.</i>
